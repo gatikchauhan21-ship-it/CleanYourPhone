@@ -1,0 +1,12 @@
+{
+  "oem": "Realme / Oppo",
+  "packages": [
+    "com.heytap.market",
+    "com.heytap.cloud",
+    "com.heytap.usercenter",
+    "com.oppo.browser",
+    "com.coloros.gamespace",
+    "com.coloros.video",
+    "com.oplus.postmanservice"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "oem": "OnePlus",
+  "packages": [
+    "com.oneplus.gamespace",
+    "com.oneplus.membership",
+    "com.oneplus.account",
+    "com.nearme.statistics.rom"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "oem": "Vivo",
+  "packages": [
+    "com.vivo.browser",
+    "com.vivo.appstore",
+    "com.vivo.space",
+    "com.bbk.theme",
+    "com.bbk.cloud",
+    "com.vivo.easyshare"
+  ]
+}

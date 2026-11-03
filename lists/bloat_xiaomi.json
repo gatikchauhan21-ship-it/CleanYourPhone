@@ -1,0 +1,12 @@
+{
+  "oem": "Xiaomi",
+  "packages": [
+    "com.miui.msa.global",
+    "com.miui.analytics",
+    "com.xiaomi.glance",
+    "com.miui.daemon",
+    "com.android.browser",
+    "com.miui.player",
+    "com.xiaomi.discover"
+  ]
+}

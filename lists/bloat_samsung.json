@@ -1,0 +1,11 @@
+{
+  "oem": "Samsung",
+  "packages": [
+    "com.samsung.android.bixby.wakeup",
+    "com.samsung.android.bixby.agent",
+    "com.samsung.android.app.spage",
+    "com.samsung.android.rubin.app",
+    "com.sec.android.daemonapp",
+    "com.samsung.discover"
+  ]
+}

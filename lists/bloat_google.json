@@ -1,0 +1,10 @@
+{
+  "oem": "Google",
+  "packages": [
+    "com.google.android.videos",
+    "com.google.android.apps.tachyon",
+    "com.google.android.apps.wellbeing",
+    "com.google.android.apps.magazines",
+    "com.google.android.apps.podcasts"
+  ]
+}
